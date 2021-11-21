@@ -1,0 +1,2 @@
+# Segment-rscp
+Python application
